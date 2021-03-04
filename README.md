@@ -1,2 +1,2 @@
 # zindex
-A simple example to demonstrate the z-index properties in CSS
+A simple example to demonstrate the z-index property in CSS
